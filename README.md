@@ -39,7 +39,7 @@
 
 
 # 【推荐选修】
-* **[Unity 之 【话大】设计模式全家桶](https://www.jianshu.com/p/d7a49058c8dd)**
+* **[设计模式全家桶](https://www.jianshu.com/p/d7a49058c8dd)**
 * **[Unity 之 经典优秀框架 PureMVC （4.1.0版本）解析 （上） 应用篇](https://www.jianshu.com/p/fa4a7c902e25)**
 * **[Unity 之 经典优秀框架 PureMVC （4.1.0版本） 解析 （中） 框架解析篇](https://www.jianshu.com/p/5243a8b9c8ed)**
 * **[Unity 之 经典优秀框架 PureMVC （4.1.0版本） 解析 （下） 补充篇](https://www.jianshu.com/p/726d0d62859a)**
@@ -63,10 +63,12 @@
 * **[Unity Debug输出到屏幕并保存到本地](https://www.jianshu.com/p/5163b0a0180e)**
 * **[Unity SDK JDK 环境配置 避免各种莫名其妙的报错](https://www.jianshu.com/p/f5d394d6e7a4)**
 * **[使用 ADB LogCat 查看在Android真机上 Unity debug.log 输出日志](https://www.jianshu.com/p/ab0139da5e39)**
-* **[面试题](https://github.com/su9257/GameDevelopmentGuide/blob/master/%E9%9D%A2%E8%AF%95%E9%A2%98.md)**
 
 * **[SourceTree 教程文档（安装并设置SourceTree）](https://www.jianshu.com/p/1ec389ad32fa)**
 * **[SourceTree 教程文档（了解界面）](https://www.jianshu.com/p/03b65da5345e)**
 * **[SourceTree 教程文档（使用Git工作）](https://www.jianshu.com/p/71e4380c7d06)**
 * **[SourceTree 教程文档（进阶知识）](https://www.jianshu.com/p/791e6ab4b6af)**
+
+# 【面试技巧】
+* **[面试题](https://github.com/su9257/GameDevelopmentGuide/blob/master/%E9%9D%A2%E8%AF%95%E9%A2%98.md)**
 -----------------
