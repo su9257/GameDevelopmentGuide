@@ -72,3 +72,6 @@
 # 【面试技巧】
 * **[面试题](https://github.com/su9257/GameDevelopmentGuide/blob/master/%E9%9D%A2%E8%AF%95%E9%A2%98.md)**
 -----------------
+
+# 【效率提升】
+* **[学习技巧](https://github.com/su9257/GameDevelopmentGuide/blob/master/%E6%95%88%E7%8E%87%E6%8F%90%E5%8D%87/%E5%AD%A6%E4%B9%A0%E6%8A%80%E5%B7%A7/%E5%AD%A6%E4%B9%A0%E6%8A%80%E5%B7%A7.png)**
