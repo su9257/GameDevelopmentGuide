@@ -71,6 +71,8 @@
 
 # 【面试技巧】
 * **[面试题](https://github.com/su9257/GameDevelopmentGuide/blob/master/%E9%9D%A2%E8%AF%95%E9%A2%98.md)**
+* **[上海12家游戏公司面试横向评测](https://www.jianshu.com/p/eb629aa852a7)**
+
 -----------------
 
 # 【效率提升】
